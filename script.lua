@@ -1,1 +1,6 @@
-éÎŸë~µéÍ´ïëŞúëöï~¹ãŞ¸ÛMİÛN»ë^ëã¾µéŞ¹ãŞ¸Ñ®½ë­´ïëŞúëöï~¹ãŞ¸ÛMİİİ´ßÍõßÍ÷ßMûß}ùßMúÛNøëÎ¹éíÛM´ÛM´éÎŸë^¸ï~øïn½éî»ÛÎ»ë^ëÚãÎøïôã¾¹ï¼ÛguóWuóWuñ·tm·tm§toM¶Ûİ½ÛÍ½Ñ®¹éÎ÷ë½ë­´ïëŞúëöï~¹ãŞ¸ÛMİİİ´ß­úß­ùßõß}ùÛNøëÎ¹éíÛM´ÛM´éÎŸë^¸ï~øïn½éî»ÛÎ»ë^ëÚãÎøïôã¾¹ï¼ÛguóWuóWuñ·tm·tm§toM¶Ûİ½ÛÍ½Ñ®¹éî¸
+local universeId = game.GameId
+if universeId == 8183073506 then
+    loadstring(game:HttpGet("ÑÑÑ‹Ğ»ĞºĞ°"))()
+elseif universeId == 66654135 then
+    loadstring(game:HttpGet("ÑÑÑ‹Ğ»ĞºĞ°"))()
+end
