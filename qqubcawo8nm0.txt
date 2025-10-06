@@ -1,0 +1,5 @@
+local placeId = game.PlaceId
+
+if placeId == 124389216346675 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Rioniikz/Roblox-Scripts/main/781jqjpn9e.txt"))()
+end
