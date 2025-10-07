@@ -1,0 +1,5 @@
+local placeId = game.PlaceId
+
+if placeId == 109983668079237 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()
+end
