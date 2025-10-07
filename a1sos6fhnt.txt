@@ -1,0 +1,5 @@
+local placeId = game.PlaceId
+
+if placeId == 109983668079237 then
+    https://t.me/LegionScriptBot?start=vBF8L1
+end
