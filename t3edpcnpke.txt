@@ -1,0 +1,5 @@
+local placeId = game.PlaceId
+
+if placeId == 77369995259196 then
+    скрипт
+end
